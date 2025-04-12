@@ -6,18 +6,18 @@ A full-stack web application for managing food orders in a canteen/cafeteria env
 
 ### User Interface
 
-![User Dashboard](docs/images/user-dashboard.png)
+![User Dashboard](https://github.com/Ayushmangela/canteen-order-system/raw/main/docs/images/user-dashboard.png)
 _Menu page showing available food items with prices and stock status_
 
-![Order History](docs/images/order-history.png)
+![Order History](https://github.com/Ayushmangela/canteen-order-system/raw/main/docs/images/order-history.png)
 _Track order status and view order history_
 
 ### Admin Interface
 
-![Admin Dashboard](docs/images/admin-dashboard.png)
+![Admin Dashboard](https://github.com/Ayushmangela/canteen-order-system/raw/main/docs/images/admin-dashboard.png)
 _Admin dashboard showing key metrics and statistics_
 
-![Food Management](docs/images/food-management.png)
+![Food Management](https://github.com/Ayushmangela/canteen-order-system/raw/main/docs/images/food-management.png)
 _Category and food item management interface_
 
 ## Features
