@@ -2,6 +2,24 @@
 
 A full-stack web application for managing food orders in a canteen/cafeteria environment. This system includes features for both customers and administrators.
 
+## Screenshots
+
+### User Interface
+
+![User Dashboard](docs/images/user-dashboard.png)
+_Menu page showing available food items with prices and stock status_
+
+![Order History](docs/images/order-history.png)
+_Track order status and view order history_
+
+### Admin Interface
+
+![Admin Dashboard](docs/images/admin-dashboard.png)
+_Admin dashboard showing key metrics and statistics_
+
+![Food Management](docs/images/food-management.png)
+_Category and food item management interface_
+
 ## Features
 
 ### User Features
@@ -122,6 +140,12 @@ canteen-order-system/
 │   │   └── App.jsx
 │   ├── package.json
 │   └── vite.config.js
+├── docs/
+│   └── images/
+│       ├── user-dashboard.png
+│       ├── order-history.png
+│       ├── admin-dashboard.png
+│       └── food-management.png
 └── database_schema.sql
 ```
 
